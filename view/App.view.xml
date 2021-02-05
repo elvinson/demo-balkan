@@ -1,0 +1,10 @@
+<mvc:View
+	controllerName="megafon.controller.App"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:core="sap.ui.core"
+	displayBlock="true">
+	<Shell appWidthLimited="false">
+		<App id="app" class="megafon-oss"/>
+	</Shell>
+</mvc:View>

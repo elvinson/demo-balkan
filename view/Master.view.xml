@@ -1,0 +1,14 @@
+<mvc:View
+    controllerName="megafon.controller.Master"
+    xmlns="sap.m"
+    displayBlock="true"
+    xmlns:core="sap.ui.core"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:cd="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+    <Page
+        busyIndicatorDelay="0"
+        showHeader="false">
+        <content>
+        </content>
+    </Page>
+</mvc:View>

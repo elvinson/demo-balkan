@@ -1,0 +1,18 @@
+<mvc:View
+    controllerName="megafon.controller.Detail"
+    xmlns="sap.m"
+    displayBlock="true"
+    xmlns:core="sap.ui.core"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:cd="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+    <Page
+        busyIndicatorDelay="0"
+        showHeader="false">
+        <content>
+            <VBox renderType="Bare" width="100%" height="100%">
+                <html:div id="orgchart" style="width:100%; height:100%;"></html:div>
+            </VBox>
+        </content>
+    </Page>
+</mvc:View>
